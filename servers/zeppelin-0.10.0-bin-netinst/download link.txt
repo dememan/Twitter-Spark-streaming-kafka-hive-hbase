@@ -1,0 +1,1 @@
+https://dlcdn.apache.org/zeppelin/zeppelin-0.10.0/zeppelin-0.10.0-bin-netinst.tgz
